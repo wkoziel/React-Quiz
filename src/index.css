@@ -38,7 +38,7 @@ Variables
   --clr-black: #222;
   --transition: all 0.3s linear;
   --spacing: 0.1rem;
-  --radius: 0.25rem;
+  --radius: 0.75rem;
   --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
   --max-width: 1170px;
@@ -157,6 +157,7 @@ main {
 .quiz-small {
   max-width: 500px;
 }
+
 .container h2 {
   margin-bottom: 2rem;
   text-align: center;
@@ -177,6 +178,7 @@ main {
   padding: 0.5rem 0;
   transition: var(--transition);
 }
+
 @media screen and (min-width: 576px) {
   .answer-btn {
     max-width: 60%;
