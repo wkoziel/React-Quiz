@@ -1,4 +1,4 @@
-# Project Name
+# Quiz 
 > Quiz app with simple setup form that's letting you choose number of questions, category and difficulty. <br>
 > Live demo [_here_](https://wkoziel-quiz-app.netlify.app/).
 
