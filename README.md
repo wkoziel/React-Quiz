@@ -5,7 +5,7 @@
 ## Table of Contents
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
+* [Preview](#Preview)
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
@@ -24,7 +24,7 @@ List the ready features here:
 - Summary is displayed at the end of the quiz
 
 
-## Screenshots
+## Preview
 ![Example screenshot](https://user-images.githubusercontent.com/44378819/131255792-b73b6e36-0d94-4248-9e95-ede34ec6fdd7.gif)
 
 
@@ -38,8 +38,6 @@ Than you can simply run your local server by typing into your terminal
 npm start
 ```
 Application will be available at `localhost:3000`
-
-
 
 ## Project Status
 Project is: _complete_ 
